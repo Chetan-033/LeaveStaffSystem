@@ -1,0 +1,13 @@
+...Leave Management System...
+...Continuous Internal Staff Leave Management System...
+
+it's my academic year-2024-25 project
+The Staff Leave System is designed for college staff to easily apply for leave. 
+The system enables the Head of Department (HOD) and the Principal to manage leave requests efficiently.
+Staff Leave Application: Staff members can apply for leave through a user-friendly interface.
+Leave Management: The HOD and Principal can view, accept, or reject leave requests.
+
+Copyright:-
+This project is copyrighted by the Copyright Office, Government of India.
+
+contact:- chetannerkar92@gmail.com
